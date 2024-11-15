@@ -28,6 +28,7 @@ TMSL'28 | CURRENTLY Learning Full Stack | GAMER |
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohitPandey15)
 
 ---
+## 🌟Hacktoberfest 2024 Badges
 [![An image of @mohitaiml's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitaiml)](https://holopin.io/@mohitaiml) 
 
   
